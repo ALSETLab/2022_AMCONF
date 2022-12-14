@@ -6,14 +6,14 @@ Presenter | Scott Bortoff
 Title | Sustainable HVAC: Research Opportunities for Modelicans
 Files | [[Presentation]](/keynotes/Bortoff_ModelicaKeynote20221026.pdf)
 Video | [[Open in Youtube!]]()
-Other | <img src="/03_other/00_images/keynote_bortoff.png" width=400>
+Picture | <img src="/03_other/00_images/keynote_bortoff.png" width=400>
 
 Presenter | Dirk Zimmer
 --- | ---
 Title | Mathematical Modeling in Modelica: The Art of Compressing Reality
 Files | [[Presentation]](/keynotes/Zimmer_CompressingReality.pdf)
 Video | [[Open in Youtube!]]()
-Other | <img src="/03_other/00_images/keynote_dirk.png" width=400>
+Picture | <img src="/03_other/00_images/keynote_dirk.png" width=400>
 
 
 ## Presentations of Peer-Reviewed Papers, Full Papers and Abstracts
@@ -29,8 +29,8 @@ Title | BESMod - A Modelica Library providing Building Energy System Modules
 Files | [[Presentation]](/namodelica2022_Presentation_3.pdf) [[Full Paper]]() [[Abstract]]()
 Video | [[Open in Youtube!]]()
 Other | Winner of the Best Conference Paper Award! :1st_place_medal:
-      | <img src="/03_other/00_images/00_bestpaper.png" width=400>
-      | <img src="/03_other/00_images/00_bestpaper_pic.png" width=400>
+Award      | <img src="/03_other/00_images/00_bestpaper.png" width=400>
+Picture  | <img src="/03_other/00_images/00_bestpaper_pic.png" width=400>
 
 Authors | Michael Tiller
 --- | ---
@@ -81,8 +81,8 @@ Title | Transient Simulation of an Air-source Heat Pump under Cycling of Frostin
 Files | [[Presentation]](/namodelica2022_Presentation_13.pdf) [[Full Paper]]() [[Abstract]]()
 Video | [[Open in Youtube!]]()
 Other | First Runner-Up, Best Paper Award! :2nd_place_medal:
-      | <img src="/03_other/00_images/01_firstrunner-up.png" width=400>
-      | <img src="/03_other/00_images/01_firstrunner-up_pic.png" width=400>
+Award | <img src="/03_other/00_images/01_firstrunner-up.png" width=400>
+Picture | <img src="/03_other/00_images/01_firstrunner-up_pic.png" width=400>
 
 Authors | Mohamad Omar Nachawati, Gianmaria Bullegas, Andrey Vasilyev, Joe Gregory, Adrian Pop, Maged Elaasar and Adeel Asghar
 --- | ---
@@ -102,8 +102,8 @@ Title | Performance Enhancements for Zero-Flow Simulation of  Vapor Compression 
 Files | [[Presentation]](/namodelica2022_Presentation_17.pdf) [[Full Paper]]() [[Abstract]]()
 Video | [[Open in Youtube!]]()
 Other | Second Runner-Up, Best Paper Award! :2nd_place_medal:
-      | <img src="/03_other/00_images/02_second_runner-up.png" width=400>
-      | <img src="/03_other/00_images/02_second_runner-up_pic.png" width=400>
+Award | <img src="/03_other/00_images/02_second_runner-up.png" width=400>
+Picture | <img src="/03_other/00_images/02_second_runner-up_pic.png" width=400>
 
 Authors | John Batteh, Jesse Gohl, James Ferri, Quang Le, Bill Glandorf, Bob Sherman and Rudolfs Opmanis
 --- | ---
