@@ -101,7 +101,7 @@ Authors | Hongtao Qiao and Christopher Laughman
 Title | Performance Enhancements for Zero-Flow Simulation of  Vapor Compression Cycles
 Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_17.pdf) [[Full Paper]]() [[Abstract]]()
 Video | [[Open in Youtube!]]()
-Other | Second Runner-Up, Best Paper Award! :2nd_place_medal:
+Other | Second Runner-Up, Best Paper Award! :3rd_place_medal:
 Award | <img src="/03_other/00_images/02_second_runner-up.png" width=400>
 Picture | <img src="/03_other/00_images/02_second_runner-up_pic.png" width=400>
 
