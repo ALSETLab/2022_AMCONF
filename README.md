@@ -37,7 +37,7 @@ Authors | Michael Tiller
 Title | A Playground for the Modelica Language
 Files | [[Full Paper]]() [[Abstract]]()
 Video | [[Open in Youtube!]]()
-Other | [[Click here to go to the Playground]](https://playground.modelica.university/)
+Other | [[Click here to go to the Playground]](https://playground.modelica.university/?toc=https://gist.githubusercontent.com/mtiller/59017320b2d80fbbbb004a037ab351da/raw/985a3f66adabe0da0740e38a87e66dccd0ce55c8/amc2022.json)
 
 Authors | Lars Ivar Hatledal and Eirik Fagerhaug
 --- | ---
