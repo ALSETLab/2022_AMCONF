@@ -186,67 +186,67 @@ Video | [[Open in Youtube!]](https://youtu.be/7nsZWPRyZx0?list=PL3ewLNwzPhxIBF-x
 Presenter | Michael Wetter
 --- | ---
 Title | Model-Based Optimization for a Campus District Cooling System
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_21.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_21.pdf)[[Abstract]](/01_papers/03_user/01_wetter.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=13)
 
 Presenter | Chao Pan
 --- | ---
 Title | Hybrid Model Predictive Control of Chiller Plant with Thermal Energy Storage Evaluated with Modelica-Python Co-Simulation
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_22.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_22.pdf)[[Abstract]](/01_papers/03_user/02_pan.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=1401)
 
 Presenter | David Blum
 --- | ---
 Title | The Use of Modelica and the Functional Mockup Interface for the Building Optimization Testing Framework (BOPTEST)
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_23.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_23.pdf)[[Abstract]](/01_papers/03_user/03_blum.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=2960)
 Other | [[BOPTEST Homepage]](https://ibpsa.github.io/project1-boptest/index.html)
 
 Presenter | Kaustubh Phalak and Deep Gupta
 --- | ---
 Title | Use of TRACE 3D Plus Models with Spawn for Rapid Prototype Development in Modelica Environment
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_29.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_29.pdf)[[Abstract]](/01_papers/03_user/04_phalak.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=4817)
 
 Presenter | Tao Yang, Konstantin Filonenko, Isabela Zuluaga and Christian Veje
 --- | ---
 Title | Comparative Analysis of Price-based Control Strategies for a High Temperature Thermal Energy Storage System
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_30.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_30.pdf)[[Abstract]](/01_papers/03_user/05_yang.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=6077)
 
 ### User Session 2
 Presenter | Scott Bortoff
 --- | ---
 Title | Modelica-Based Control of a Delta Robot
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_25.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_25.pdf)[[Abstract]](/01_papers/03_user/06_bortoff.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/5LHCGQ_rQT0?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=21)
 
 Presenter | Yingbo Ma, Keno Fischer, Chris Rackauckas and Viral Shah
 --- | ---
 Title | Prototyping Composable Simplification Passes for Equation-Oriented Models Using ModelingToolkit.jl
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_26.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_26.pdf)[[Abstract]](/01_papers/03_user/07_ma.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/5LHCGQ_rQT0?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=1431)
 
 Presenter | Roshni Jacob and Jie Zhang
 --- | ---
 Title | Modeling and Control of Nuclear-Renewable Integrated Energy Systems for Electricity and Hydrogen Production
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_28.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_28.pdf)[[Abstract]](/01_papers/03_user/08_roshni.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/5LHCGQ_rQT0?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=2656)
 
 Presenter | Valentin Gavan, Patrick Chombart, Charlie Duprat, Jérémie Fricker, Benoît Radet and Kevin Maquin
 --- | ---
 Title | Innovative concepts and application for large scale and multimode systems : use case study of heat networks
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_24.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_24.pdf)[[Abstract]](/01_papers/03_user/09_gavan.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/5LHCGQ_rQT0?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=3805)
 
 Presenter | Jingbo Wang, Roshni Jacob and Jie Zhang
 --- | ---
 Title | Reinforcement Learning based Control of Integrated Energy Systems using ModelicaGym
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_31.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_31.pdf)[[Abstract]](/01_papers/03_user/10_wang.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/5LHCGQ_rQT0?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=5128)
 
 Authors | Akhlak Bin Aziz and Caleb Brooks
 --- | ---
 Title | Modeling an integrated energy system in OpenModelica to utilize the output of a nuclear reactor for producing energy and powering a desalination plant
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_32.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_32.pdf)[[Abstract]](/01_papers/03_user/11_aziz.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/5LHCGQ_rQT0?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=6147)
