@@ -183,7 +183,7 @@ Video | [[Open in Youtube!]](https://youtu.be/7nsZWPRyZx0?list=PL3ewLNwzPhxIBF-x
 ## Industrial User Presentations Sessions
 
 ### User Session 1
-Presenter | Michael Wetter
+Presenter | Michael Wetter, Kathryn Hinkelman, Jing Wang, Wangda Zuo, Antoine Gautier, Chengliang Fan and Nicholas Long
 --- | ---
 Title | Model-Based Optimization for a Campus District Cooling System
 Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_21.pdf)[[Abstract]](/01_papers/03_user/01_wetter.pdf)
