@@ -72,7 +72,7 @@ Authors | Hongxiang Fu, David Blum and Michael Wetter
 --- | ---
 Title | Fan and Pump Efficiency in Modelica based on the Euler Number
 Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_8.pdf) [[Full Paper]]() [[Abstract]]()
-Video | [[Open in Youtube!]]([https://youtu.be/rjK0Qo95iFA](https://youtu.be/rjK0Qo95iFA?t=1333))
+Video | [[Open in Youtube!]](https://youtu.be/rjK0Qo95iFA?t=1333)
 
 Authors | Jiacheng Ma, Donghun Kim and James E. Braun
 --- | ---
