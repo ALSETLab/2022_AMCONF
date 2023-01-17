@@ -180,24 +180,37 @@ Video | [[Open in Youtube!]](https://youtu.be/7nsZWPRyZx0?list=PL3ewLNwzPhxIBF-x
 
 ## Industrial User Presentations Sessions
 
-Authors | Wangda Zuo
+### User Session 1
+Presenter | Michael Wetter
 --- | ---
 Title | Model-Based Optimization for a Campus District Cooling System
 Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_21.pdf)
-Video | [[Open in Youtube!]]()
+Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=13)
 
-Authors | Chao Pan and Yaoyu Li
+Presenter | Chao Pan
 --- | ---
 Title | Hybrid Model Predictive Control of Chiller Plant with Thermal Energy Storage Evaluated with Modelica-Python Co-Simulation
 Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_22.pdf)
-Video | [[Open in Youtube!]]()
+Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=1401)
 
 Authors | David Blum
 --- | ---
 Title | The Use of Modelica and the Functional Mockup Interface for the Building Optimization Testing Framework (BOPTEST)
 Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_23.pdf)
-Video | [[Open in Youtube!]]()
+Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=2960)
 Other | [[BOPTEST Homepage]](https://ibpsa.github.io/project1-boptest/index.html)
+
+Authors | Kaustubh Phalak and Deep Gupta
+--- | ---
+Title | Use of TRACE 3D Plus Models with Spawn for Rapid Prototype Development in Modelica Environment
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_29.pdf)
+Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=4817)
+
+Authors | Tao Yang, Konstantin Filonenko, Isabela Zuluaga and Christian Veje
+--- | ---
+Title | Comparative Analysis of Price-based Control Strategies for a High Temperature Thermal Energy Storage System
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_30.pdf)
+Video | [[Open in Youtube!]](https://youtu.be/Zn0HCixBbos?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=6077)
 
 Authors | Innovative concepts and application for large scale and multimode systems : use case study of heat networks
 --- | ---
@@ -223,17 +236,7 @@ Title | Modeling and Control of Nuclear-Renewable Integrated Energy Systems for 
 Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_28.pdf)
 Video | [[Open in Youtube!]]()
 
-Authors | Kaustubh Phalak and Deep Gupta
---- | ---
-Title | Use of TRACE 3D Plus Models with Spawn for Rapid Prototype Development in Modelica Environment
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_29.pdf)
-Video | [[Open in Youtube!]]()
 
-Authors | Tao Yang, Konstantin Filonenko, Isabela Zuluaga and Christian Veje
---- | ---
-Title | Comparative Analysis of Price-based Control Strategies for a High Temperature Thermal Energy Storage System
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_30.pdf)
-Video | [[Open in Youtube!]]()
 
 Authors | Jingbo Wang, Roshni Jacob and Jie Zhang
 --- | ---
