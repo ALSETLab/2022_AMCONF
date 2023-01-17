@@ -1,4 +1,6 @@
 # Presentations from the American Modelica Conference 2022
+  - [Conference Program with Abstracts](/01_papers/A_NA_Modelica_2022_Proceedings.pdf)
+  - [Conference Proceedings](/01_papers/B_NA_Modelica_2022_program_abstracts.pdf)
 
 ## Keynote Presentations
 Presenter | Scott Bortoff
