@@ -1,6 +1,7 @@
 # Presentations from the American Modelica Conference 2022
   - [Conference Program with Abstracts](/01_papers/A_NA_Modelica_2022_Proceedings.pdf)
   - [Conference Proceedings](/01_papers/B_NA_Modelica_2022_program_abstracts.pdf)
+  - [Conference Proceedings in Linköping University University Electronic Press Website](https://ep.liu.se/en/conferences.aspx)
 
 ## Keynote Presentations
 Presenter | Scott Bortoff
@@ -64,7 +65,7 @@ Video | [[Open in Youtube!]](https://youtu.be/G0LPeaGYJc4?list=PL3ewLNwzPhxIBF-x
 Authors | Fabian Wüllhorst, Laura Maier, David Jansen, Larissa Kühn, Dominik Hering and Dirk Müller
 --- | ---
 Title | BESMod - A Modelica Library providing Building Energy System Modules
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_3.pdf) [[Full Paper]](/01_papers/02_papers/01_wullhorst.pdf) [[Abstract]](/01_papers/01_abstracts/01_wullhorst.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_3.pdf) [[Full Paper]](/01_papers/02_papers/01_Wullhorst.pdf) [[Abstract]](/01_papers/01_abstracts/01_wullhorst.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/rjK0Qo95iFA?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=59)
 Other | Winner of the Best Conference Paper Award! :1st_place_medal:
 Award      | <img src="/03_other/00_images/00_bestpaper.png" width=400>
@@ -73,13 +74,13 @@ Picture  | <img src="/03_other/00_images/00_bestpaper_pic.png" width=400>
 Authors | Hongxiang Fu, David Blum and Michael Wetter
 --- | ---
 Title | Fan and Pump Efficiency in Modelica based on the Euler Number
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_8.pdf)[[Full Paper]](/01_papers/02_papers/02_fu.pdf) [[Abstract]](/01_papers/01_abstracts/02_fu.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_8.pdf)[[Full Paper]](/01_papers/02_papers/02_Fu.pdf) [[Abstract]](/01_papers/01_abstracts/02_fu.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/rjK0Qo95iFA?t=1333)
 
 Authors | Jiacheng Ma, Donghun Kim and James E. Braun
 --- | ---
 Title | Transient Simulation of an Air-source Heat Pump under Cycling of Frosting and Reverse-cycle Defrosting
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_13.pdf)[[Full Paper]](/01_papers/02_papers/03_ma.pdf) [[Abstract]](/01_papers/01_abstracts/03_ma.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_13.pdf)[[Full Paper]](/01_papers/02_papers/03_Ma.pdf) [[Abstract]](/01_papers/01_abstracts/03_ma.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/rjK0Qo95iFA?t=2681)
 Other | First Runner-Up, Best Paper Award! :2nd_place_medal:
 Award | <img src="/03_other/00_images/01_firstrunner-up.png" width=400>
@@ -89,38 +90,38 @@ Picture | <img src="/03_other/00_images/01_firstrunner-up_pic.png" width=400>
 Authors | Matthias Reiner
 --- | ---
 Title | Simulation of the on-orbit construction of structural variable modular spacecraft by robots
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_2.pdf)[[Full Paper]](/01_papers/02_papers/04_reiner.pdf) [[Abstract]](/01_papers/01_abstracts/04_reiner.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_2.pdf)[[Full Paper]](/01_papers/02_papers/04_Reiner.pdf) [[Abstract]](/01_papers/01_abstracts/04_reiner.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/StYXEaHyYPE)
 
 Authors | Meaghan Podlaski, Luigi Vanfretti, Robert Niemiec and Farhan Gandhi
 --- | ---
 Title | Extending a Multicopter Analysis Tool using Modelica and FMI for Integrated eVTOL Aerodynamic and Electrical Drivetrain Design
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_10.pdf)[[Full Paper]](/01_papers/02_papers/05_podlaski.pdf) [[Abstract]](/01_papers/01_abstracts/05_podlaski.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_10.pdf)[[Full Paper]](/01_papers/02_papers/05_Podlaski.pdf) [[Abstract]](/01_papers/01_abstracts/05_podlaski.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/StYXEaHyYPE?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=842)
 
 Authors | Clément Coïc, Marc Budinger and Scott Delbecq
 --- | ---
 Title | Multirotor drone sizing and trajectory optimization within Modelon Impact
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_16.pdf)[[Full Paper]](/01_papers/02_papers/06_coic.pdf) [[Abstract]](/01_papers/01_abstracts/06_coic.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_16.pdf)[[Full Paper]](/01_papers/02_papers/06_Coic.pdf) [[Abstract]](/01_papers/01_abstracts/06_coic.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/StYXEaHyYPE?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=1771)
 
 ### Power Generation Session
 Authors | Le Nam Hai Pham and Dietmar Winkler
 --- | ---
 Title | Applying Design of Experiments Method for the Verification of a Hydropower System
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_5.pdf) [[Full Paper]](/01_papers/02_papers/07_pham.pdf) [[Abstract]](/01_papers/01_abstracts/07_pham.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_5.pdf) [[Full Paper]](/01_papers/02_papers/07_Pham.pdf) [[Abstract]](/01_papers/01_abstracts/07_pham.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/qpsRsCOxQ-Q?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=34)
 
 Authors | Iker Landa del Barrio, Julen Cestero, Marco Quartulli, Igor G. Olaizola, Naiara Aginako and Juan José Ugartemendia
 --- | ---
 Title | Using Multi-Physics Simulation to Estimate Energy Flexibility for Local Demand Response Strategies in a Microgrid
-Files | [[Presentation]](//02_presentations/namodelica2022_Presentation_7.pdf)[[Full Paper]](/01_papers/02_papers/08_iker.pdf) [[Abstract]](/01_papers/01_abstracts/08_iker.pdf)
+Files | [[Presentation]](//02_presentations/namodelica2022_Presentation_7.pdf)[[Full Paper]](/01_papers/02_papers/08_Barrio.pdf) [[Abstract]](/01_papers/01_abstracts/08_iker.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/qpsRsCOxQ-Q?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=758)
 
 Authors | Marcelo de Castro Fernandes, Giuseppe Laera, Fernando Fachini, Sergio A. Dorado-Rojas, Luigi Vanfretti, Shehab Ahmed, Chetan Mishra, Kevin Jones and R. Matthew Gardner
 --- | ---
 Title | Power System Real-Time Simulation using Modelica and the FMI
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_12.pdf)[[Full Paper]](/01_papers/02_papers/09_decastro.pdf) [[Abstract]](/01_papers/01_abstracts/09_decastro.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_12.pdf)[[Full Paper]](/01_papers/02_papers/09_Castro.pdf) [[Abstract]](/01_papers/01_abstracts/09_decastro.pdf)
 Video | [[Event Recording - Open in Youtube!]](https://youtu.be/qpsRsCOxQ-Q?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=2101), [[Pre-Recorded Presentation - Open in Youtube!]](https://youtu.be/Iop95jWXx3Q)
 
 ### Language/Tools Session
@@ -134,7 +135,7 @@ Other | [[Click here to go to the Playground]](https://playground.modelica.unive
 Authors | Mohamad Omar Nachawati, Gianmaria Bullegas, Andrey Vasilyev, Joe Gregory, Adrian Pop, Maged Elaasar and Adeel Asghar
 --- | ---
 Title | Towards an Open Platform for Democratized Model-Based Design and Engineering of Cyber-Physical Systems
-Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_14.pdf)[[Full Paper]](/01_papers/02_papers/11_perpetual.pdf) [[Abstract]](/01_papers/01_abstracts/11_perpetual.pdf)
+Files | [[Presentation]](/02_presentations/namodelica2022_Presentation_14.pdf)[[Full Paper]](/01_papers/02_papers/11_Nachawati.pdf) [[Abstract]](/01_papers/01_abstracts/11_perpetual.pdf)
 Video | [[Open in Youtube!]](https://youtu.be/hCvNJbWqaUw?list=PL3ewLNwzPhxIBF-xp6tvmJUuQov1j9ofT&t=1586)
 
 Authors | Lars Ivar Hatledal and Eirik Fagerhaug
